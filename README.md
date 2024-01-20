@@ -30,3 +30,7 @@ You can validate [Schema.org](https://www.schema.org/) microdata with the [Rich 
 ## Facebook Open Graph microdata validator
 
 You can validate Open Graph microdata with this [debugger](https://developers.facebook.com/tools/debug/).
+
+## Twitter card validator
+
+You can validate Twitter cards with this [validator](https://cards-dev.twitter.com/validator).
