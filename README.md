@@ -21,6 +21,12 @@ You can minimify online a CSS file [here](https://www.toptal.com/developers/cssm
 After a modification of a not-minified JS file (without `.min` in the file name), ensure to create a minified version of your file as the minified file must be the one loaded by `index.html` for better performances.
 You can minimify online a JS file [here](https://skalman.github.io/UglifyJS-online/).
 
-# Rich Snippet Google validator
+# Microdata validation
+
+## Rich Snippet Google validator
 
 You can validate [Schema.org](https://www.schema.org/) microdata with the [Rich Snippet Google validator](https://search.google.com/test/rich-results).
+
+## Facebook Open Graph microdata validator
+
+You can validate Open Graph microdata with this [debugger](https://developers.facebook.com/tools/debug/).
