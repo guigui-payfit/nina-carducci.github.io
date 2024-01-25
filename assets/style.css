@@ -29,7 +29,8 @@ nav ul {
   margin-bottom: 0;
 }
 
-nav li {
+nav li,
+.nav li {
   padding-inline: 10px;
 }
 
@@ -84,7 +85,7 @@ nav a {
   font-style: italic;
   font-weight: 800;
   margin-bottom: 8px;
-  width: 60%;
+  width: 60% !important;
 }
 #about-me p {
   width: 80%;
@@ -95,7 +96,7 @@ nav a {
   text-align: center;
   padding-block: 2em;
 }
-.gallery nav {
+.gallery .nav {
   justify-content: center;
 }
 .nav-pills .nav-link.active,

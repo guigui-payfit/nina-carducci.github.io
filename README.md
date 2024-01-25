@@ -7,7 +7,7 @@ Nina Carducci website can be seen on your web browser by opening the "index.html
 Currently, the code depends on Bootstrap (CSS & JS) and jQuery (JS). To use the latest and stable versions of :
 
 - Bootstrap : go on https://getbootstrap.com/ and apply instructions in the "Include via CDN" section.
-- jQuery : go on https://releases.jquery.com/ and paste HTML lines related to the last minified version
+- jQuery : go on https://releases.jquery.com/ and paste HTML lines related to the last minified version.
 
 # File minification
 
