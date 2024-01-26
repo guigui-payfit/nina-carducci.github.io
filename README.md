@@ -1,6 +1,8 @@
 # Nina Carducci website
 
-Nina Carducci website can be seen on your web browser by opening the "index.html" file with the "Live Server" extension from your VSCode editor. The tab to be opened URL is by default : http://localhost:5500/.
+Nina Carducci local website can be seen on your web browser by opening the "index.html" file with the "Live Server" extension from your VSCode editor. The tab to be opened URL is by default : http://localhost:5500/.
+
+Nina Carducci staging website can be seen at the following URL : https://guigui-payfit.github.io/nina-carducci.github.io/.
 
 # Update of dependencies
 
