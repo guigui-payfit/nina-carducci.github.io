@@ -39,7 +39,12 @@ nav a {
   color: #000;
 }
 
+.carousel-item img {
+  height: auto;
+}
+
 .social-link img {
+  height: auto;
   width: 20px;
 }
 
@@ -69,6 +74,7 @@ nav a {
 }
 
 .picture img {
+  height: auto;
   width: 100%;
 }
 #about-me {
