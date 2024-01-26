@@ -3,7 +3,7 @@ body {
   margin: auto;
 }
 * {
-  font-family: "Inter";
+  font-family: "Inter", sans-serif;
   font-style: normal;
 }
 header {
@@ -86,7 +86,7 @@ nav a {
   font-size: 30px;
 }
 .about-me__introduction {
-  font-family: "Spectral";
+  font-family: "Spectral", serif;
   font-size: 16px !important;
   font-style: italic;
   font-weight: 800;
@@ -143,19 +143,19 @@ nav a {
 }
 
 .quote {
-  font-family: "Spectral";
+  font-family: "Spectral", serif;
   font-style: italic;
   width: 70%;
   margin: auto;
   padding-block: 3em;
 }
 .quote__text {
-  font-family: Spectral;
+  font-family: "Spectral", serif;
   font-style: italic;
   font-weight: 300;
 }
 .quote__author {
-  font-family: Spectral;
+  font-family: "Spectral", serif;
   font-weight: 800;
   font-size: 22px;
 }
