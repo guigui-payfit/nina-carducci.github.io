@@ -125,11 +125,12 @@ nav a {
   padding-bottom: 100%;
 }
 .gallery-item {
-  position: absolute;
-  width: 100%;
+  cursor: pointer;
   height: 100%;
   object-fit: cover;
   padding: 0.5em;
+  position: absolute;
+  width: 100%;
 }
 .mg-prev,
 .mg-next {
